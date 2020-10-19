@@ -4,6 +4,7 @@
 
 This is an express server app for quick note taking, editing and deleting.
 
+![](public/assets/images/Screenshot.png)
 
   ## Table of Contents
 
